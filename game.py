@@ -1,3 +1,5 @@
+#Author Anita Baral(Anita605(anitabaral))
+
 import tkinter as tk
 import random
 import front_page
