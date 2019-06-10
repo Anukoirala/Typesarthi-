@@ -1,3 +1,4 @@
+#Author Rewant Pokhrel(pokhrelrewant)
 import tkinter as tk
 import tkinter.font as tkFont
 import time
